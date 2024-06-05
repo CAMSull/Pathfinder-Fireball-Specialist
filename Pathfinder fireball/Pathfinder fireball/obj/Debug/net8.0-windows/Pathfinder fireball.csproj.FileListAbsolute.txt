@@ -1,0 +1,17 @@
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\bin\Debug\net8.0-windows\Pathfinder fireball.exe
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\bin\Debug\net8.0-windows\Pathfinder fireball.deps.json
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\bin\Debug\net8.0-windows\Pathfinder fireball.runtimeconfig.json
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\bin\Debug\net8.0-windows\Pathfinder fireball.dll
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\bin\Debug\net8.0-windows\Pathfinder fireball.pdb
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder_fireball.Form1.resources
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.csproj.GenerateResource.cache
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.AssemblyInfoInputs.cache
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.AssemblyInfo.cs
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.csproj.CoreCompileInputs.cache
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.dll
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\refint\Pathfinder fireball.dll
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.pdb
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder fireball.genruntimeconfig.cache
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\ref\Pathfinder fireball.dll
+C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\obj\Debug\net8.0-windows\Pathfinder_fireball.Properties.Resources.resources
