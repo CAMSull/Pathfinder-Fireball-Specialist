@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pathfinder fireball")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc705ecb3a5f79fd8f93ff5e1d572d4b2a94706")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pathfinder fireball")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pathfinder fireball")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

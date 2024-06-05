@@ -31,7 +31,6 @@ namespace Pathfinder_fireball
             lblD8.Text = randomNumberString;
         }
 
-
         private void btnD10_click(object sender, EventArgs e)
         {
             Random random = new Random();

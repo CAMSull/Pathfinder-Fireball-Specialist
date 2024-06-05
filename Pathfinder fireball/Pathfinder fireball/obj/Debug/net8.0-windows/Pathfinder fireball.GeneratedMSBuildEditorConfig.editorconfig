@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pathfinder_fireball
-build_property.ProjectDir = C:\Users\camsu\Desktop\Pathfinder fireball\Pathfinder fireball\
+build_property.ProjectDir = C:\Users\camsu\Documents\GitHub\Pathfinder-Fireball-Specialist\Pathfinder fireball\Pathfinder fireball\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

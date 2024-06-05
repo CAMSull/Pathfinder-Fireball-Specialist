@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camsu\\Desktop\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj": {}
+    "C:\\Users\\camsu\\Documents\\GitHub\\Pathfinder-Fireball-Specialist\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camsu\\Desktop\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj": {
+    "C:\\Users\\camsu\\Documents\\GitHub\\Pathfinder-Fireball-Specialist\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camsu\\Desktop\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj",
+        "projectUniqueName": "C:\\Users\\camsu\\Documents\\GitHub\\Pathfinder-Fireball-Specialist\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj",
         "projectName": "Pathfinder fireball",
-        "projectPath": "C:\\Users\\camsu\\Desktop\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj",
+        "projectPath": "C:\\Users\\camsu\\Documents\\GitHub\\Pathfinder-Fireball-Specialist\\Pathfinder fireball\\Pathfinder fireball\\Pathfinder fireball.csproj",
         "packagesPath": "C:\\Users\\camsu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camsu\\Desktop\\Pathfinder fireball\\Pathfinder fireball\\obj\\",
+        "outputPath": "C:\\Users\\camsu\\Documents\\GitHub\\Pathfinder-Fireball-Specialist\\Pathfinder fireball\\Pathfinder fireball\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
